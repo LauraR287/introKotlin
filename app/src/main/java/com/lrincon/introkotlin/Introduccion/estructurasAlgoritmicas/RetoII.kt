@@ -1,4 +1,4 @@
-package com.lrincon.introkotlin.Introduccion
+package com.lrincon.introkotlin.Introduccion.estructurasAlgoritmicas
 
 class RetoII {
 }

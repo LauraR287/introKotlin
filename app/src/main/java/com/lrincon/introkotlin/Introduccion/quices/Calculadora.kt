@@ -1,4 +1,4 @@
-package com.lrincon.introkotlin.Introduccion.estructurasAlgoritmicas
+package com.lrincon.introkotlin.Introduccion.quices
 
 import kotlin.math.sqrt
 

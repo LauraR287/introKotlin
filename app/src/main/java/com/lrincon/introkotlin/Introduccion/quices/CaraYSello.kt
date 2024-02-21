@@ -1,4 +1,4 @@
-package com.lrincon.introkotlin.Introduccion.estructurasAlgoritmicas
+package com.lrincon.introkotlin.Introduccion.quices
 
 class CaraYSello {
 }
@@ -18,4 +18,5 @@ fun main(){
             println("Perdiste :(")
         }
     }
+
 }
